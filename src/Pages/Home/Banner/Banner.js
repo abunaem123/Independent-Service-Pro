@@ -20,7 +20,7 @@ const Banner = () => {
                     alt="First slide"
                 />
                 <Carousel.Caption>
-                    <h3>Cox's Bazar Tour</h3>
+                    <h3>The Majestic Kashmir</h3>
                     <p>Now is the time to enjoy the beauty of the sea</p>
                 </Carousel.Caption>
             </Carousel.Item>
@@ -32,7 +32,7 @@ const Banner = () => {
                 />
 
                 <Carousel.Caption>
-                    <h3>Bandarban Tour</h3>
+                    <h3>Simply Istanbul Tour</h3>
                     <p>Want to get lost in the beauty of nature?</p>
                 </Carousel.Caption>
             </Carousel.Item>
@@ -44,7 +44,7 @@ const Banner = () => {
                 />
 
                 <Carousel.Caption>
-                    <h3>Saint Martin Tour</h3>
+                    <h3>Kathmandu World</h3>
                     <p>
                     St. Martin's Island is a small island in the northeastern part of the Bay of Bengal
                     </p>

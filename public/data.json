@@ -2,22 +2,22 @@
     {
       "id": "1",
       "img": "https://i.ibb.co/hmQZ7Mq/service-1.png",
-      "prics": 4000,
-      "name": "Cox's Bazar",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using"
+      "prics": 20000,
+      "name": "The Majestic Kashmir",
+      "description": "Kashmir is one of the most popular tourist places in India that is known for its natural beauty. From beautiful shikaras and wooden..."
     },
     {
       "id": "2",
       "img": "https://i.ibb.co/1mq4n4L/service-2.png",
       "prics": 5500,
-      "name": "Bandarban",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using"
+      "name": "Simply Istanbul",
+      "description": "After arrival at the airport, you will be welcomed by our representatives and transferred to the hotel for check-in and freshen-up. "
     },
     {
       "id": "3",
       "img": "https://i.ibb.co/KmcPbKD/service-3.png",
       "prics": 5000,
-      "name": "Saint-Martin",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using"
+      "name": "Kathmandu World ",
+      "description": "There are three principal cities in Kathmandu Valley namely Kathmandu, Patan, and Bhaktapur. There are three Durbar (Palace) Squares..."
     }
   ]
