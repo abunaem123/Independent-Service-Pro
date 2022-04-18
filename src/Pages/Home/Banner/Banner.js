@@ -21,7 +21,7 @@ const Banner = () => {
                 />
                 <Carousel.Caption>
                     <h3>Cox's Bazar Tour</h3>
-                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                    <p>Now is the time to enjoy the beauty of the sea</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -33,7 +33,7 @@ const Banner = () => {
 
                 <Carousel.Caption>
                     <h3>Bandarban Tour</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p>Want to get lost in the beauty of nature?</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -46,7 +46,7 @@ const Banner = () => {
                 <Carousel.Caption>
                     <h3>Saint Martin Tour</h3>
                     <p>
-                        Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                    St. Martin's Island is a small island in the northeastern part of the Bay of Bengal
                     </p>
                 </Carousel.Caption>
             </Carousel.Item>
